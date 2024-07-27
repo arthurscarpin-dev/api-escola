@@ -1,7 +1,7 @@
 # School API 
 #### This API of school, is developed to put in practice my knowledge of Python using Django Rest Framework.
 <div>
-  <p>The intencion this project is possibility user do a completed API.</p>
+  <p>The intention of this project is to allow users to use every resources of API.</p>
 </div>
 
 ## Tecnologias utilizadas:
@@ -42,9 +42,9 @@
 </div>
 
 # API Escola
-#### Essa API de uma escola, foi desenvolvida para colocar em prática os meus conhecimentos de Python utilizando o Django Rest Framework.
+#### Esse projeto, foi desenvolvido para colocar em prática os meus conhecimentos de Python utilizando o Django Rest Framework.
 <div>
-  <p>O intuito dessa galeria de fotos, possibilita o usuário de realizar um CRUD completo.</p>
+  <p>O intuito desse projeto, possibilita que o usuário realize um CRUD completo.</p>
 </div>
 
 ## Tecnologias utilizadas:
