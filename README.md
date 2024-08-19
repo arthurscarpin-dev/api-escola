@@ -11,7 +11,7 @@ CRUD developed in Django Rest Framework.
 ### How to execute?
 1. Clone the remote repository.
 ```
-git clone git@github.com:arthurscarpin-dev/api-escola.git
+git clone git@github.com:arthurscarpin-dev/school-api.git
 ```
 
 2. Create the Python virtual environment.
